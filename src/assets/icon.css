@@ -1,0 +1,64 @@
+[class^="el-icon-ali"], [class*="el-icon-ali"]
+{
+  font-family:"iconfont" !important;
+  font-size:20px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+    font-family: 'iconfont';
+    src: url('./font/iconfont.eot');
+    src: url('./font/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('./font/iconfont.woff2') format('woff2'),
+        url('./font/iconfont.woff') format('woff'),
+        url('./font/iconfont.ttf') format('truetype'),
+        url('./font/iconfont.svg#iconfont') format('svg');
+}
+.el-icon-alichengshijianshe:before {
+    content: "\e612";
+  }
+  
+  .el-icon-alishuju:before {
+    content: "\e607";
+  }
+  
+  .el-icon-aliaddatrend:before {
+    content: "\e8cd";
+  }
+  
+  .el-icon-alijiu_:before {
+    content: "\e617";
+  }
+  
+  .el-icon-aliicon-test:before {
+    content: "\e613";
+  }
+  
+  .el-icon-aliyundong-:before {
+    content: "\ee46";
+  }
+  
+  .el-icon-alikulian:before {
+    content: "\e634";
+  }
+  
+  .el-icon-alixiaolian:before {
+    content: "\e638";
+  }
+  
+  .el-icon-alichuang:before {
+    content: "\e662";
+  }
+  
+  .el-icon-alishiwu:before {
+    content: "\e691";
+  }
+  
+  .el-icon-aliadmin:before {
+    content: "\eb9e";
+  }
+  
+  .el-icon-alipassword:before {
+    content: "\eb9c";
+  }
